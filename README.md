@@ -85,7 +85,7 @@ Examined the effects of automation and AI on business models, employment trends,
 
 **Duration:** May 2025 – August 2025
 
-**Status:** Published (IJRMF)
+**Status:** Published (IJRMF) [Publication Certificate](./publication%20certificate.pdf)
 
 **Research Area:** Artificial Intelligence, Digital Marketing, Customer Analytics
 
@@ -223,10 +223,9 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 # Work Experience
 
 ## Export Internship
-
+- [Export Company Internship Certificate](./internship%20certificate.pdf)
 ### V.S Apparel
- [Internship Certificate](./internship%20certificate)
-
+ 
 **Duration:** May 2026 – June 2026
 
 **Position:** Export Intern
@@ -246,25 +245,26 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 
 ## Professional Certifications
 
-- [Power BI Certification (IIM Bangalore)](./power%20BI)
+## Professional Certifications
+
+- [Power BI Certification (IIM Bangalore)](./power%20BI.pdf)
 
 - [Entrepreneurship Program Certificate (IIM Bangalore)](./Prathikshaa%20M.%20COE.pdf)
 
-- [Generative AI Certification](./gen%20AI)
+- [Generative AI Certification](./gen%20AI.pdf)
 
-- [Claude AI Certification](./claude%20certificate%20id%20and%20verified)
+- [Cloud Computing Certification](./claude%20certificate%20id%20and%20verified.pdf)
 
-- [Agentic AI Certification](./llms%20agentic%20ai%20101)
+- [Agentic AI Certification](./llms%20agentic%20ai%20101.pdf)
 
-- [English Proficiency Certificate](./maiib%20english%20proficiency%20certifica...)
+- [English Proficiency Certificate](./maiib%20english%20proficiency%20certificate.pdf)
 
-- [Robotic Process Automation Certificate](./robotic%20process%20automation)
+- [Robotic Process Automation Certification](./robotic%20process%20automation.pdf)
 
-- [Research Methodology Certificate](./research%20methodology)
-
-- [Publication Certificate](./publication%20certificate)
-
-- [Publication Acceptance Certificate](./publication%20certificate%20(1))
+- [Research Methodology Certification](./research%20methodology.pdf)
+  
+-  [Publication Acceptance Certificate](./publication%20certificate%20(1).pdf)
+  
 ---
 
 # Skills
@@ -333,8 +333,9 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 
 **Achievement:**
 Completed a 7-hour continuous Art & Craft Marathon at a single location.
- [Kalam Book of Records Certificate (2019)](./kalam%20books%20of%20record%202019)
 
+- [Kalam Book of World Records Certificate (2019)](./kalam%20books%20of%20record%202019.pdf)
+  
 ---
 
 # Future Research Interests
