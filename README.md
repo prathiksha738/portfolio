@@ -225,6 +225,7 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 ## Export Internship
 
 ### V.S Apparel
+ [Internship Certificate](./internship%20certificate)
 
 **Duration:** May 2026 – June 2026
 
@@ -243,13 +244,27 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 
 ## Professional Certifications
 
-- IIM Bangalore – Power BI
-- IIM Entrepreneurship Program
-- Google Digital Marketing Certification
-- Generative AI Certification
-- English Proficiency Certification
-- Research Participation Certificates
+## Professional Certifications
 
+- [Power BI Certification (IIM Bangalore)](./power%20BI)
+
+- [Entrepreneurship Program Certificate (IIM Bangalore)](./Prathikshaa%20M.%20COE.pdf)
+
+- [Generative AI Certification](./gen%20AI)
+
+- [Claude AI Certification](./claude%20certificate%20id%20and%20verified)
+
+- [Agentic AI Certification](./llms%20agentic%20ai%20101)
+
+- [English Proficiency Certificate](./maiib%20english%20proficiency%20certifica...)
+
+- [Robotic Process Automation Certificate](./robotic%20process%20automation)
+
+- [Research Methodology Certificate](./research%20methodology)
+
+- [Publication Certificate](./publication%20certificate)
+
+- [Publication Acceptance Certificate](./publication%20certificate%20(1))
 ---
 
 # Skills
@@ -259,23 +274,25 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 - Entrepreneurship
 - Business Strategy
 - Market Research
-- Export Management
-- Supply Chain Fundamentals
+- Business model development
 
 ## Research Skills
 - Academic Research
 - Literature Review
 - Case Study Analysis
-- Research Writing
-- Report Writing
+- Qualitative research
+- Comparative research analysis
 - Data Collection
 
 ## Data & Analytics
 - Power BI
 - Microsoft Excel
 - Data Analysis
+- Power BI
+- AI tools
 - Data Visualization
 - Basic Statistics
+- Basic data analysis
 
 ## Digital Marketing
 - SEO Fundamentals
@@ -286,23 +303,22 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 ## Technical Skills
 - HTML
 - CSS
-- Bootstrap
 - Python (Beginner)
 - SQL (Beginner)
 - GitHub
+- Prompt engineering (basic)
 
 ## Communication & Leadership
 - Presentation Skills
 - Leadership
 - Team Coordination
-- Public Speaking
 - Problem Solving
 - Time Management
 
 ## Languages
 - English
 - Tamil
-- Chinese (Learning)
+- Chinese (HSK 1 learning)
 - Japanese (Learning)
 
 ---
@@ -317,6 +333,7 @@ Designed AI-driven branding, content automation, and digital marketing workflows
 
 **Achievement:**
 Completed a 7-hour continuous Art & Craft Marathon at a single location.
+ [Kalam Book of Records Certificate (2019)](./kalam%20books%20of%20record%202019)
 
 ---
 
