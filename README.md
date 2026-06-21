@@ -334,7 +334,7 @@ Completed a 7-hour continuous Art & Craft Marathon at a single location.
 
 # Career Objective
 
-To build expertise in International Business, research, and emerging technologies while contributing to innovative, data-driven, and sustainable business solutions on a global scale.
+To build expertise in International Business, research, and emerging technologies while contributing to innovative, data-driven, and sustainable business solutions on a global scale. 
 
 ---
 
