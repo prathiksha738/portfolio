@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="./Snapchat-2060823286.jpg" width="220" alt="Prathikshaa M">
-</p>
-
-<h1 align="center">Prathikshaa M</h1>
-
-<p align="center">
-International Business Student | Researcher | AI & Entrepreneurship Enthusiast
-</p>
 
 # Prathikshaa M
 
@@ -96,6 +87,7 @@ Examined the effects of automation and AI on business models, employment trends,
 **Duration:** May 2025 – August 2025
 
 **Status:** Published (IJRMF) - [Published Research Paper (IJFMR)](./ijfmr%20publication%20certificate.pdf)
+
 **Research Area:** Artificial Intelligence, Digital Marketing, Customer Analytics
 
 **Key Focus:**
