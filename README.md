@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="./Snapchat-2060823286.jpg" width="220" alt="Prathikshaa M">
+</p>
+
+<h1 align="center">Prathikshaa M</h1>
+
+<p align="center">
+International Business Student | Researcher | AI & Entrepreneurship Enthusiast
+</p>
+
 # Prathikshaa M
 
 ## International Business Student | Researcher | AI & Entrepreneurship Enthusiast
