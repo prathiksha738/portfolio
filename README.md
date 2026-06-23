@@ -86,8 +86,7 @@ Examined the effects of automation and AI on business models, employment trends,
 
 **Duration:** May 2025 – August 2025
 
-**Status:** Published (IJRMF) - [Published Research Paper (IJFMR)](./ijfmr%20publication%20certificate.pdf)
-
+**Status:** Published (IJRMF) - - [IJFMR Publication Certificate](./DOC-20260424-WA0014_.pdf)
 **Research Area:** Artificial Intelligence, Digital Marketing, Customer Analytics
 
 **Key Focus:**
